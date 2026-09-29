@@ -1,0 +1,15 @@
+# Ejecutables
+*.out
+emisor
+receptor
+test_pcap
+
+# Objetos
+*.o
+
+# Compilación
+build/
+
+# Archivos temporales
+*~
+
