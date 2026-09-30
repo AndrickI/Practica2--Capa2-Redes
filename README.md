@@ -185,5 +185,4 @@ Mensaje: Hola Redes2027-1
 # Notas
 
 - La práctica utiliza una trama Ethernet personalizada de Capa 2.
-- No se utilizan protocolos de capas superiores como TCP, UDP o IP.
 - El payload se transporta directamente dentro de la trama Ethernet.
